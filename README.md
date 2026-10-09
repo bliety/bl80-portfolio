@@ -17,7 +17,7 @@ https://bliety.github.io/bl80-portfolio/
 3. https://www.youtube.com/watch?v=CdlgbCFmrf8
 4. https://www.youtube.com/watch?v=LHKoGzeSGx0
 5. https://www.youtube.com/watch?v=0WfqrvxiEsI
-6. https://www.youtube.com/watch?v=oXGllw7ZOgA
+6. Small Talk Show — https://www.youtube.com/watch?v=3BPlVlEnSNA
 
 ## Maintenance
 All site source is in `index.html`, with the official logo embedded directly. You can edit the HTML to add titles, film descriptions, credits, or more projects. The page attempts to retrieve YouTube titles online and falls back to neutral labels if that service is unavailable.
